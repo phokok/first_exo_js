@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+#button {
+    margin-top: 25%;
+    background-color: black;
+    color: white;
+}
